@@ -1,0 +1,20 @@
+"*":
+  "bracket-matcher":
+    autocompleteBrackets: false
+  core:
+    autoHideMenuBar: true
+    automaticallyUpdate: false
+    disabledPackages: [
+      "whitespace"
+    ]
+    telemetryConsent: "no"
+  editor:
+    showIndentGuide: true
+    softWrap: true
+  "exception-reporting":
+    userId: "d6ad3bf5-dfd5-4d66-8571-2a8c2e737b96"
+  tabs:
+    enableMruTabSwitching: false
+  "tree-view": {}
+  welcome:
+    showOnStartup: false
