@@ -9,10 +9,13 @@
     ]
     telemetryConsent: "no"
   editor:
+    fontSize: 15
     showIndentGuide: true
     softWrap: true
   "exception-reporting":
     userId: "d6ad3bf5-dfd5-4d66-8571-2a8c2e737b96"
+  "highlight-selected":
+    hideHighlightOnSelectedWord: true
   tabs:
     enableMruTabSwitching: false
   "tree-view": {}
